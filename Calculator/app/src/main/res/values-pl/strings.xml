@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="cannotDelete" translatable="false">Puste Pole!</string>
+    <string name="wrongInput" translatable="false">Zle wejście</string>
+    <string name="wrongSign" translatable="false">Zły znak</string>
+    <string name="wrongValue" translatable="false">Dzielenie przez zero!</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Calculator</string>
+    <string name="wrongValue" translatable="false">Dividing by 0!</string>
+    <string name="wrongInput" translatable="false">Empty input!</string>
+    <string name="wrongSign" translatable="false">Sign is the some!</string>
+    <string name="cannotDelete" translatable="false">Empty fields!</string>
+
+</resources>
