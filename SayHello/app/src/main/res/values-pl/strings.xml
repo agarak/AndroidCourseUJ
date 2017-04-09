@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja aplikacja</string>
+    <string name="hi" translatable="false">Cześć</string>
+    <string name="question" translatable="false">Podaj swoje imię</string>
+    <string name="st" translatable="false">Nieznajomy</string>
+</resources>
